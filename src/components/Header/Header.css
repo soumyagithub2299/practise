@@ -1,0 +1,19 @@
+
+.header {
+  background-color: #2196f3;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: inherit;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}

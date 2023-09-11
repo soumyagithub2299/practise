@@ -1,0 +1,27 @@
+/* Help.css */
+
+.help-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 465px; /* Adjust the height as needed */
+    padding: 20px;
+    background-color: rgb(243, 252, 225);
+  }
+  
+  .help-paper {
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(4, 0, 62);
+  }
+  
+  .help-title {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .help-content {
+    font-size: 16px;
+  }
+  

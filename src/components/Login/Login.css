@@ -1,0 +1,31 @@
+/* Login.css */
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 465px; /* Adjust the height as needed */
+    padding: 20px;
+    background-color: rgb(243, 252, 225);
+  }
+  
+  .login-paper {
+    padding: 20px;
+    text-align: center;
+    width: 300px; /* Adjust the width as needed */
+  }
+  
+  .login-title {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-button {
+    margin-top: 20px;
+  }
+  

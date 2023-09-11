@@ -1,0 +1,27 @@
+/* Contact.css */
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 465px; /* Adjust the height as needed */
+    padding: 20px;
+    background-color: rgb(243, 252, 225);
+  }
+  
+  .contact-paper {
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(4, 0, 62);
+  }
+  
+  .contact-title {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-content {
+    font-size: 16px;
+  }
+  
