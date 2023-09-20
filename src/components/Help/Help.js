@@ -47,7 +47,7 @@ const Help = () => {
 
 
 
-<h1>soumya</h1>
+<h1>soumya</h1> <h6>tiwari</h6>
 
 
 
@@ -55,4 +55,4 @@ const Help = () => {
   );
 };
 
-export default Help; <h2>soumya</h2>
+export default Help; 
